@@ -1,4 +1,4 @@
 # console_arkanoid
 lang c, simple arkanoid
-There may bugs, sorry
+There may be bugs, sorry
 
